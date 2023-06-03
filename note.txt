@@ -1,0 +1,18 @@
+
+
+
+
+inputs
+5 * rays
+car location x
+car location y
+
+
+
+outputs
+right
+left
+** do nothing
+
+
+
